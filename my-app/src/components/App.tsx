@@ -16,7 +16,7 @@ function App() {
           <h1 className="title">Moquette</h1>
         </span>
         <img
-          src="src/coquette.png"
+          src="my-app/src/coquette.png"
           className="pink-bow"
           aria-label="pink-bow"
         />
